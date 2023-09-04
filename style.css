@@ -35,3 +35,14 @@ input {
   height: 1.5rem;
   background-color: #001C30;
 }
+
+#weather-info {
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
